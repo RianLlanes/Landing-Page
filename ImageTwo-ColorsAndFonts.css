@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+.Header {
+    color: #3882F6;
+    font-size: 48px;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+/* Start Styling of Container 1 */
+.Container1 {
+    background-color: #1F2937;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.Content1 .ContentHeader {
+    font-weight: bold;
+}
+
+.Content1 .Content1 {
+
+    font-size: 24px;
+}
+
+.Content1 .Content2 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.Content1 .Content3{
+    font-size: 18px;
+}
+
+.Content1 .Content4 {
+    font-size: 24px;
+    font-weight: bolder;
+    padding-bottom: 30px;
+}
+/* End Styling of Container 1 */
+
+/* Start Styling of Container 2 */
+.Container2 {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.Content2 .ContentHeader {
+    font-weight: bold;
+}
+
+.Content2 .Content1 {
+    color: #3882F6;
+    font-size: 24px;
+}
+
+.Content2 .Content2 {
+    font-size: 36px;
+    font-weight: bolder;
+    padding-bottom: 30px;
+}
+/* End Styling of Container 2 */
+
+/* Start Styling of Container 3 */
+.Container3 {
+    background-color: #E5E7EB;
+    color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.Content3 .ContentHeader {
+    font-weight: bold;
+}
+
+.Content3 .Content1 {
+    color: #3882F6;
+    font-size: 24px;
+}
+
+.Content3 .Content2 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    padding-bottom: 30px;
+}
+/* End Styling of Container 3 */
